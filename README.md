@@ -1,4 +1,4 @@
-# Edge AI Condition Monitoring on TI MSPM0 Series via emlearn
+# Edge AI Condition Monitoring on TI MSPM0 Series for Real Time interpretation of motor vibrations
 ### 💡 High-Performance Endpoint AI for 3-Phase/BLDC Motors using Random Forest Models
 **Developed by Kent del Pino**
 
